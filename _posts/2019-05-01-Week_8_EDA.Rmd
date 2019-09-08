@@ -8,12 +8,6 @@ excerpt: "Analytics, Data Science, Regis, Data"
 mathjax: "true"
 ---
 
----
-title: "Week_8_EDA"
-author: "Christopher Richards"
-date: "May 1, 2019"
-output: html_document
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE)
