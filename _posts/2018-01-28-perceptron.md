@@ -1,10 +1,10 @@
 ---
 title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+date: 2019-09-07
+tags: [Regis University, data wrangling, data science, messy data, Python, R, exploratory data analysis, visualization, analytics, statistics, machine learning]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Analytics, Data Science, Regis, Data"
 mathjax: "true"
 ---
 
