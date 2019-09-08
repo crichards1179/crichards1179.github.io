@@ -1,4 +1,14 @@
 ---
+title: "Exploratory Data Analysis: Week 8 Assignment"
+date: 2019-09-07
+tags: [Regis University, data wrangling, data science, messy data, Python, R, exploratory data analysis, visualization, analytics, statistics, machine learning]
+header:
+  image: 
+excerpt: "Analytics, Data Science, Regis, Data"
+mathjax: "true"
+---
+
+---
 title: "Week_8_EDA"
 author: "Christopher Richards"
 date: "May 1, 2019"
