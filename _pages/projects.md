@@ -4,7 +4,7 @@ permalink: /data-wrangling/
 title: "Projects"
 author_profile: true
 header:
-  image: "/images/Health-Data-Research750x500.jpg"
+  image: "/images/Health-Data-Research2.jpg"
 ---
 
 
