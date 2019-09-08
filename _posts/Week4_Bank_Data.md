@@ -1,3 +1,12 @@
+---
+title: "Data Collection: Week 4 Bank Data"
+date: 2019-09-07
+tags: [Regis University, data wrangling, data science, messy data, Python, R, exploratory data analysis, visualization, analytics, statistics, machine learning]
+header:
+  image: "D:\Regis\Portfolio\images\170921-globalstocksinvesting-stock.jpg"
+excerpt: "Analytics, Data Science, Regis, Data"
+mathjax: "true"
+---
 
 # Week 4 Bank Data 
 Chris Richards, Regis University  
